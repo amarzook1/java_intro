@@ -8,5 +8,11 @@ public class Numbers {
 
     // print it
 
+    int integerVar = 10;
+    double doubleVar = 10.5;
+
+    double result = integerVar + doubleVar;
+
+    System.out.println(result);
   }
 }
