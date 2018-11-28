@@ -8,5 +8,8 @@ public class Strings {
 
     // print your message!
 
+    String firstName = "Ahmed", lastName = "Marzook";
+
+    System.out.println("My name is " + firstName + " and my last name is " + lastName);
   }
 }
